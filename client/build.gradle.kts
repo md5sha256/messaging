@@ -1,6 +1,6 @@
 plugins {
     id("application")
-    id("org.openjfx.javafxplugin") version "0.0.10"
+    id("org.openjfx.javafxplugin") version "0.0.12"
 }
 
 version = "1.0.0-SNAPSHOT"
