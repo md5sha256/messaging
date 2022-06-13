@@ -6,7 +6,7 @@ plugins {
 version = "1.0.0-SNAPSHOT"
 
 dependencies {
-    implementation("org.fxmisc.flowless:flowless:0.6.9")
+    implementation("org.fxmisc.flowless:flowless:0.6.10")
     implementation(projects.messagingCommon)
 }
 
