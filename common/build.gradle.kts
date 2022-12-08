@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    api("org.jetbrains:annotations:23.0.0")
+    api("org.jetbrains:annotations:23.1.0")
 }
 
 tasks.getByName<Test>("test") {
